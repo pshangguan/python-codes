@@ -7,5 +7,6 @@ def solution(P):
         else:
             print("%d is a prime number!" % n)
 
+## Call the func ##
 solution(177)
 
