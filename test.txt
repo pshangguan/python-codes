@@ -1,0 +1,3 @@
+this is a file that contents DATA
+DATA= 123
+can you search for useful DATA?

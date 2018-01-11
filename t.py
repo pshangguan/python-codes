@@ -1,6 +1,9 @@
 x = 3
-it x == 1:
+if x == 1:
     # indented four spaces
     print("x is 1.")
 else:
-    print("x i not 1")
+    print("x is not 1")
+
+for i in range(20):
+	print(i+1)
